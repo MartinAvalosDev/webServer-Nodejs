@@ -1,6 +1,5 @@
-const Contenedor = require('./Contenedor');
+const Contenedor = require('./Contenedor.js');
 const express = require('express');
-const { get } = require('mercadopago/lib/resources/payment');
 const app = express();
 const port = 8080;
 

@@ -1,4 +1,4 @@
-const instancia = require('./instancia');
+const instancia = require('./index.js');
 const fs = require('fs');
 
 class Contenedor {
